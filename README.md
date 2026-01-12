@@ -5,6 +5,24 @@
 [![Transformers](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/docs/transformers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+Drive link for full model output: 
+****
+
+
+## Group Information
+- **Group**: Group 9  
+- **Course**: Deep Learning  
+- **Institution**: Telkom University  
+
+## Team Members
+
+| Name | NIM |
+|------|-----|
+| **Fuji Aqbal Fadhlillah** | 1103223151 |
+| **Ali Fatta Maulana** | 1103223228 |
+
+---
+
 A generative question answering system that fine-tunes **T5-base** on the **SQuAD v1.1 dataset** to generate textual answers directly from context, moving beyond traditional extractive QA approaches.
 
 ---
