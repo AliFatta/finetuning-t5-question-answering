@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Drive link for full model output: 
-****
+**https://drive.google.com/drive/folders/1hhsHIEbE3In2YrjrX9G1a-SLihjtCrBf?usp=drive_link**
 
 
 ## Group Information
